@@ -1,0 +1,47 @@
+/* 
+    Template Name: My FOlio
+    Author: Shahadat Hossain
+    Template Designer : Shahadat Hossain
+    Author Uri :https://www.facebook.com/shahadat2002bd 
+    Version : 1.0.0
+
+
+    Table OF Content
+    ===========================
+    ** Home **
+    ** About Me ** 
+    ** Service
+    
+
+*/
+/* Common Css Start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul,
+ol{
+    list-style-type: none;
+}
+a,
+a:hover{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6,
+p,
+small,
+ul,
+ol{
+    margin: 0;
+    padding: 0;
+}
+/* Common Css End */
+#work .container .col-lg-8{
+    width: 100%;
+}
+#about .container .col-lg-10{
+    width: 100%;
+}
